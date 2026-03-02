@@ -2,7 +2,7 @@
 
 # Nexa - Your On-the-Go ComfyUI Companion
 
-A sleek, responsive React Native mobile app that connects directly to your local ComfyUI server. Generate images from your phone, build dynamic UIs from JSON workflows, upload images to LoadImage nodes.
+A sleek, responsive android app that connects directly to your local ComfyUI server. Generate images from your phone, build dynamic UIs from JSON workflows, upload images to LoadImage nodes.
 
 ## What does it do?
 Nexa completely changes how you interact with ComfyUI. Instead of dealing with the giant node spaghetti desktop interface when you just want to generate some images on the couch, Nexa turns your workflows into clean mobile forms. 
